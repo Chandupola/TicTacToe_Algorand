@@ -14,5 +14,5 @@ accounts:
   total: 3
 
 client_credentials:
-  address = "Jane"
+  address = "https://chandupola-tictactoe-algorand-app-saxlid.streamlit.app"
   token = "12345qwerty"
