@@ -107,5 +107,5 @@ VAKBk0jfv7Mdm4d2jw9kC03/"
   total: 3
 
 client_credentials:
-  db_username = "Jane"
-  db_password = "12345qwerty"
+  address = "Jane"
+  token = "12345qwerty"
